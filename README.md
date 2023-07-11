@@ -1,3 +1,3 @@
 # Projetos Desenvolvidos em Scratch
-# Seguindo curso "Scratch - programação criativa"
+# Exercícios propostos a alunos da Educação Básica
 # Plataforma ALURA START
