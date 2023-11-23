@@ -6,12 +6,10 @@
 .cabecalho{
   background-color: blueviolet;
   display: flex;
-
 }
 
 .titulos {
-
-  align-items: center;
+  justify-content: center;
 }
 
 .titulo-principal{
