@@ -6,7 +6,7 @@
 .cabecalho{
   background-color: blueviolet;
   display: flex;
-  justify-content: space-around;
+  justify-content:flex-start;
 }
 
 .titulos {
@@ -38,5 +38,4 @@
 
 .cabecalho-imagem{
   width: 10%;
-  padding: 0;
 }
