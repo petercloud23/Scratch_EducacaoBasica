@@ -12,7 +12,8 @@
 }
 
 .titulos {
-  align-items:flex-start;
+  margin:0;
+  padding-left: 0;
 
 }
 
