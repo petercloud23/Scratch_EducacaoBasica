@@ -11,7 +11,7 @@
 
 .titulos {
   align-items: center;
-  
+
 }
 
 .titulo-principal{
@@ -38,4 +38,5 @@
 
 .cabecalho-imagem{
   width: 10%;
+  padding: 0;
 }
