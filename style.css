@@ -5,15 +5,16 @@
 
 .cabecalho{
   background-color: blueviolet;
-  align-items: center;
 }
 
 .titulo-principal{
   color:white;
   font-size: x-large;
+  text-align: center;
 }
 
 .titulo-secundario{
   color: gold;
   font-size: small;
+  text-align: left;
 }
