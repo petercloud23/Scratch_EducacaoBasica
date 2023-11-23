@@ -1,6 +1,11 @@
-.titulo-principal{
+.cabecalho{
   background-color = blue;
-  text-align=center;
+  item-align = center;
+}
+
+.titulo-principal{
+  color = white;
+  font-size=48px;
 }
 
 body {
