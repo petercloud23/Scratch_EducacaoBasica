@@ -6,14 +6,10 @@
 .cabecalho{
   background-color: blueviolet;
   display: flex;
-  justify-content: space-around;
-  align-items: center;
-  padding: 0;
+
 }
 
 .titulos {
-  margin:0;
-  padding-left: 0;
 
 }
 
