@@ -11,6 +11,7 @@
   color:white;
   font-size: xx-large;
   text-align: center;
+  padding-top: 20px;
 }
 
 .titulo-secundario{
@@ -19,4 +20,8 @@
   text-align: center;
   padding-top: 12px;
   padding-bottom: 12px;
+}
+
+.projetos{
+  background-color: grey;
 }
