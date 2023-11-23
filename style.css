@@ -9,6 +9,11 @@
   justify-content: space-around;
 }
 
+.titulos {
+  align-items: center;
+  
+}
+
 .titulo-principal{
   color:white;
   font-size: xx-large;
